@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "1",
+    "name": "Gold Necklace",
+    "price": 1200,
+    "description": "A beautiful gold necklace, perfect for any occasion.",
+    "image": "/images/gold-necklace.jpg",
+    "related": ["2", "3"]
+  },
+  {
+    "id": "2",
+    "name": "Diamond Ring",
+    "price": 5000,
+    "description": "A stunning diamond ring, a symbol of eternal love.",
+    "image": "/images/diamond-ring.jpg",
+    "related": ["1", "4"]
+  },
+  {
+    "id": "3",
+    "name": "Pearl Earrings",
+    "price": 800,
+    "description": "Elegant pearl earrings, a timeless classic.",
+    "image": "/images/pearl-earrings.jpg",
+    "related": ["1", "5"]
+  },
+  {
+    "id": "4",
+    "name": "Sapphire Bracelet",
+    "price": 3500,
+    "description": "A breathtaking sapphire bracelet, a touch of royalty.",
+    "image": "/images/sapphire-bracelet.jpg",
+    "related": ["2", "6"]
+  },
+  {
+    "id": "5",
+    "name": "Ruby Pendant",
+    "price": 2500,
+    "description": "A passionate ruby pendant, a statement of love.",
+    "image": "/images/ruby-pendant.jpg",
+    "related": ["3", "7"]
+  },
+  {
+    "id": "6",
+    "name": "Emerald Brooch",
+    "price": 4200,
+    "description": "A magnificent emerald brooch, a touch of nature's beauty.",
+    "image": "/images/emerald-brooch.jpg",
+    "related": ["4", "8"]
+  },
+  {
+    "id": "7",
+    "name": "Amethyst Necklace",
+    "price": 1800,
+    "description": "A mesmerizing amethyst necklace, a symbol of peace.",
+    "image": "/images/amethyst-necklace.jpg",
+    "related": ["5", "9"]
+  },
+  {
+    "id": "8",
+    "name": "Topaz Ring",
+    "price": 3000,
+    "description": "A brilliant topaz ring, a touch of sunshine.",
+    "image": "/images/topaz-ring.jpg",
+    "related": ["6", "1"]
+  },
+  {
+    "id": "9",
+    "name": "Opal Earrings",
+    "price": 2200,
+    "description": "A dreamy pair of opal earrings, a dance of colors.",
+    "image": "/images/opal-earrings.jpg",
+    "related": ["7", "2"]
+  }
+]
